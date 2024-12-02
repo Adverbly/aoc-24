@@ -30,22 +30,23 @@ python ./torch_test.py # validate install
 
 #### Contributing
 
-vi solutions/day-1/part-1/solve.py
+`vi solutions/day-1/part-1/solve.py`
 
 #### Running
 
-python solutions/day-1/part-1/solve.py
+`python runner 1 2`
 
 #### Running all solutions
 
 TODO
 
 #### Starting a new year
+```
 mkdir -p solutions/day_{1..25}/part_{1..2}
 mkdir -p lib
 touch solutions/day_{1..25}/part_{1..2}/question.md
 touch solutions/day_{1..25}/part_{1..2}/solve.py
 touch solutions/day_{1..25}/input.txt
 touch solutions/day_{1..25}/part_{1..2}/example.txt
-
+```
 
